@@ -1,0 +1,7 @@
+Steps: 
+GMM for background : find means and covariances 
+Background Regernation suing those means and covariances 
+neural network training / loading model
+pass on the test image , take its reconstruction 
+save the reconstructed image using opencv or matplotlib
+reconstruct the image using 3 images 
